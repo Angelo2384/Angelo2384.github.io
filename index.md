@@ -7,8 +7,7 @@
 ---
 
 ## 🎯 Objective
-Third-year Diploma in IT Applications student with strong foundation in software development, web technologies, and problem-solving...
-
+Third-year Diploma in IT Applications student with strong foundation in software development, web technologies, and problem-solving. I combine technical expertise with creative thinking as a digital artist, video editor, and content creator. Experienced working within professional environments, including corporate sales and youth focused nonprofit initiatives, where I contributed to organizing large-scale collaborative events. I am passionate about building innovative, user-centered solutions and continuously expanding my technical skillset.
 ---
 
 ## 💻 Technical Skills
@@ -23,10 +22,8 @@ Third-year Diploma in IT Applications student with strong foundation in software
 
 ## 🚀 Projects
 ### Peer-to-Peer Tutoring Web Application
-Developed a desktop tutoring platform using JavaFX with features like:
-- User registration
-- Session scheduling
-- Data management
+Developed a desktop tutoring platform using JavaFX and designed the user interface with Figma. Implemented features like user registration, session scheduling, and data management to connect students efficiently.
+
 
 ---
 
@@ -53,4 +50,10 @@ Developed a desktop tutoring platform using JavaFX with features like:
 ---
 
 ## 📌 References
-Available on request
+Enrico Hartman, 
+Sibelius High, 082 381 9776
+
+Helene Visagie
+BottomUp, 084 702 4733
+
+
