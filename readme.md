@@ -7,8 +7,9 @@
 ---
 
 ## 🎯 Objective
+I am a third-year Diploma in IT Applications student with strong foundation in software development, web technologies, and problem-solving. I combine technical expertise with creative thinking as a digital artist, video editor, and content creator. Experienced working within professional environments, including corporate sales and youth focused nonprofit initiatives, where I contributed to organizing large-scale collaborative events. I am passionate about building innovative, user-centered solutions and continuously expanding my technical skillset.
 
-Third-year Diploma in IT Applications student with strong foundation in software development, web technologies, and problem-solving. I combine technical expertise with creative thinking as a digital artist, video editor, and content creator. Experienced working within professional environments, including corporate sales and youth focused nonprofit initiatives, where I contributed to organizing large-scale collaborative events. I am passionate about building innovative, user-centered solutions and continuously expanding my technical skillset.
+
 ---
 
 ## 💻 Technical Skills
