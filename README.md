@@ -42,3 +42,7 @@ Third-year Diploma in IT Applications student with strong foundation in software
 - Developed strategic thinking skills in learners  
 
 ---
+
+## 🎥 Mock Interview
+
+[Click here to watch my interview](./Interview.mp4)
