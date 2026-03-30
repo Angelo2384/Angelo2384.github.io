@@ -13,34 +13,34 @@ Third-year Diploma in IT Applications student with strong foundation in software
 ---
 
 ## 🎓 Education
-- Diploma in Application Development | CPUT | 2024 – Present  
-- Higher Certificate in IT | CPUT | 2023  
-- Matric | Sibelius High School | 2022  
+* Diploma in Application Development | CPUT | 2024 – Present
+* Higher Certificate in IT | CPUT | 2023
+* Matric | Sibelius High School | 2022  
 
 ---
 
 ## 💻 Technical Skills
-- Java  
-- Python  
-- HTML  
-- CSS  
-- MySQL  
-- GitHub  
-- Figma  
+* Java
+* Python
+* HTML
+* CSS
+* MySQL
+* GitHub
+* Figma  
 
 ---
 
 ## 💼 Experience
 ### Sales Representative | Tekkie Town | 2024 – 2025
-- Assisted customers with product/system issues  
-- Maintained digital sales records  
+* Assisted customers with product/system issues
+* Maintained digital sales records  
 
 ### Event Planner & Digital Media Contributor | 2023 – Present
-- Organized events  
-- Managed digital content  
+* Organized events
+* Managed digital content  
 
 ### Chess Facilitator
-- Developed strategic thinking skills in learners  
+* Developed strategic thinking skills in learners  
 
 ---
 
