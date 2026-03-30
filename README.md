@@ -4,6 +4,7 @@
 📞 +27 68 098 7805  
 📧 230450431@mycput.ac.za  
 
+
 ---
 
 ## 🎯 Objective
@@ -43,6 +44,3 @@ Third-year Diploma in IT Applications student with strong foundation in software
 
 ---
 
-## 🎥 Mock Interview
-
-[Click here to watch my interview](./Interview.mp4)
