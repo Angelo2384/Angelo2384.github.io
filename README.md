@@ -8,7 +8,7 @@
 ---
 
 ## 🎯 Objective
-Third-year Diploma in IT Applications student with strong foundation in software development, web technologies, and problem-solving. Passionate about building innovative, user-centered solutions.
+Third-year Diploma in IT Applications student with strong foundation in software development, web technologies, and problem-solving. I am passionate about building innovative, user-centered solutions and continuously expanding my technical skillset.  
 
 ---
 
