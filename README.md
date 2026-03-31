@@ -30,6 +30,17 @@ Third-year Diploma in IT Applications student with strong foundation in software
 
 ---
 
+## 📂 Projects
+### Peer-to-Peer Tutoring Web Application
+- Built using JavaFX  
+- Designed UI using Figma  
+- Features:
+  - User registration  
+  - Session scheduling  
+  - Data management
+ 
+---
+
 ## 💼 Experience
 ### Sales Representative | Tekkie Town | 2024 – 2025
 * Assisted customers with product/system issues
@@ -40,17 +51,15 @@ Third-year Diploma in IT Applications student with strong foundation in software
 * Managed digital content  
 
 ### Chess Facilitator
-* Developed strategic thinking skills in learners  
-
-### Peer-to-Peer Tutoring Web Application
-* Built using JavaFX  
-* Designed UI using Figma
-*  Features:
-  * User registration
-  * Session scheduling
-  *  Data management  
+* Developed strategic thinking skills in learners
 
 ---
+
+## 📞 References
+- Enrico Hartman – Sibelius High – 082 381 9776  
+- Helene Visagie – BottomUp – 084 702 4733
+
+--- 
 
 ## 🎥 Mock Interview
 
