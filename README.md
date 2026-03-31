@@ -42,6 +42,14 @@ Third-year Diploma in IT Applications student with strong foundation in software
 ### Chess Facilitator
 * Developed strategic thinking skills in learners  
 
+### Peer-to-Peer Tutoring Web Application
+* Built using JavaFX  
+* Designed UI using Figma
+*  Features:
+  * User registration
+  * Session scheduling
+  *  Data management  
+
 ---
 
 ## 🎥 Mock Interview
