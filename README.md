@@ -2,6 +2,7 @@
 # Angelo Adams
 
 | 📞 Phone | +27 68 098 7805        |
+
 | 📧 Email | 230450431@mycput.ac.za |
 
 ---
