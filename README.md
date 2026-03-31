@@ -42,5 +42,12 @@ Third-year Diploma in IT Applications student with strong foundation in software
 ### Chess Facilitator
 * Developed strategic thinking skills in learners  
 
----
+---## 🎥 Mock Interview
+
+<video width="600" controls>
+  <source src="interview.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 
