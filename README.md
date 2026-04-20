@@ -70,7 +70,7 @@ Third-year Diploma in IT Applications student with strong foundation in software
 
 
 
-## Reflection
+# Reflection
 
 ### Markdown
 Learning Markdown was a little challenging as I had never used Markdown syntax on GitHub before so getting into it was not as easy to pick up at the beginning. I was used to working in Word or other text editors so seeing the symbols such as #, *, and backticks was a little confusing. I needed to learn how to use Markdown correctly so I could present my work CV properly on GitHub and meet the project requirements. 
