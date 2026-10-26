@@ -97,7 +97,7 @@ After the interview I realized that I needed to improve the way I structure my a
 
 ## 1. Agile Team Charter
 
-**Evidence:** [View the Agile Team Charter](team-charter.docx)
+**Evidence:** [View the Agile Team Charter](Agile%20Team%20Charter.docx)
 
 ### Reflection
 
@@ -111,7 +111,7 @@ Reflecting on the charter, I learned that a clear role gives each person respons
 
 ## 2. User Stories and Tasks
 
-**Evidence:** [View the User Stories and Tasks](user-stories.docx)
+**Evidence:** [View the User Stories and Tasks](User%20Stories%20and&20Tasks.docx)
 
 ### Reflection
 
@@ -125,7 +125,7 @@ This helped me understand that frontend development requires careful thought abo
 
 ## 3. Product Backlog
 
-**Evidence:** [View the Product Backlog](product-backlog.docx)
+**Evidence:** [View the Product Backlog](Product%20Backlog.docx)
 
 ### Reflection
 
@@ -139,7 +139,7 @@ One important lesson was that completing the dashboard did not mean the entire p
 
 ## 4. Sprint Backlog
 
-**Evidence:** [View the Sprint Backlog](sprint-backlog.docx)
+**Evidence:** [View the Sprint Backlog](Sprint%20Backlog.docx)
 
 ### Reflection
 
@@ -153,7 +153,7 @@ Reflecting on the sprint backlog, I learned that smaller tasks make responsibili
 
 ## 5. Agile Logbook
 
-**Evidence:** [View my Agile Logbook](agile-logbook.docx)
+**Evidence:** [View my Agile Logbook](Agile%20Logbook.docx)
 
 ### Reflection
 
