@@ -111,7 +111,7 @@ Reflecting on the charter, I learned that a clear role gives each person respons
 
 ## 2. User Stories and Tasks
 
-**Evidence:** [View the User Stories and Tasks](User%20Stories%20and&20Tasks.docx)
+**Evidence:** [View the User Stories and Tasks](User%20Stories%20and%20Tasks.docx)
 
 ### Reflection
 
