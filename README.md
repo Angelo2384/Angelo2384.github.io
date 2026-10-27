@@ -103,19 +103,19 @@ After the interview I realized that I needed to improve the way I structure my a
 
 ### 2. User Stories and Tasks
 
-[Download the User Stories and Tasks](User%20Stories%20and%20Tasks.docx)
+[Download the User Stories and Tasks](User%20Stories%20and%20Tasks.pdf)
 
 ### 3. Product Backlog
 
-[Download the Product Backlog](Product%20Backlog.docx)
+[Download the Product Backlog](Product%20Backlog.pdf)
 
 ### 4. Sprint Backlog
 
-[Download the Sprint Backlog](Sprint%20Backlog.docx)
+[Download the Sprint Backlog](Sprint%20Backlog.pdf)
 
 ### 5. Agile Logbook
 
-[Download my Agile Logbook](Agile%20Logbook.docx)
+[Download my Agile Logbook](Agile%20Logbook.pdf)
 
 ### Trello Board
 
