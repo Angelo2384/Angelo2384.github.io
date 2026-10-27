@@ -169,8 +169,10 @@ SAEON Real-Time Rainfall Monitoring System.
 
 ![Prototype hardware and wiring](Test.jpeg)
 
-This photograph shows the controller, breadboard, sensors
-and wiring used in our team's prototype setup.
+This photograph shows the controller, breadboard, sensor modules and wiring used in the team’s prototype setup. 
+It provides supporting evidence of the hardware arrangement used during development. 
+My responsibility was frontend development and design; this photograph gives context to the 
+hardware supplying the information displayed by the interface.
 
 ---
 
@@ -180,9 +182,9 @@ and wiring used in our team's prototype setup.
   <source src="sensor-test.mp4" type="video/mp4">
 </video>
 
-This video shows the prototype sensor setup and temperature
-and humidity readings appearing in the Serial Monitor.
-It provides evidence of the team's initial sensor testing.
+This video shows the prototype sensor connected to the controller and temperature and humidity readings appearing in the Serial Monitor. 
+It provides evidence of the team’s initial sensor testing. My role in the project was frontend development and design, 
+so these readings helped establish the type of information the dashboard needed to present.
 
 ---
 
@@ -192,7 +194,6 @@ It provides evidence of the team's initial sensor testing.
   <source src="rainfall-test.mp4" type="video/mp4">
 </video>
 
-This video shows water being poured into the rain gauge,
-followed by the dashboard displaying a changing rainfall value.
-It demonstrates prototype testing and how readings are
-presented on the interface.
+This video shows water being poured into the rain gauge, followed by the dashboard displaying a changing rainfall value. 
+It demonstrates prototype testing and how readings are presented on the interface. This relates to my frontend role, 
+which focused on making monitoring information clear and understandable for users.
