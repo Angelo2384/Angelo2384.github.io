@@ -149,3 +149,33 @@ The screenshot below shows the Trello board for our
 SAEON Real-Time Rainfall Monitoring System.
 
 ![SAEON project Trello board](Trello.jpeg)
+
+## Prototype Testing Evidence
+
+### Prototype Hardware Setup
+
+![Prototype hardware and wiring](Test.jpeg)
+
+This photograph shows the controller, breadboard, sensors
+and wiring used in our team's prototype setup.
+
+### Temperature and Humidity Test
+
+<video controls preload="metadata" style="width:100%;max-width:600px;">
+  <source src="sensor-test.mp4" type="video/mp4">
+</video>
+
+This video shows the prototype sensor setup and temperature
+and humidity readings appearing in the Serial Monitor.
+It provides evidence of the team's initial sensor testing.
+
+### Rainfall and Dashboard Test
+
+<video controls preload="metadata" style="width:100%;max-width:600px;">
+  <source src="rainfall-test.mp4" type="video/mp4">
+</video>
+
+This video shows water being poured into the rain gauge,
+followed by the dashboard displaying a changing rainfall value.
+It demonstrates prototype testing and how readings are
+presented on the interface.
