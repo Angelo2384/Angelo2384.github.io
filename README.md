@@ -95,73 +95,31 @@ After the interview I realized that I needed to improve the way I structure my a
 
 ---
 
-## 1. Agile Team Charter
+## SAEON Agile Project Portfolio
 
-**Evidence:** [View the Agile Team Charter](Agile%20Team%20Charter.docx)
+### 1. Agile Team Charter
 
-### Reflection
+[Download the Agile Team Charter](Agile%20Team%20Charter.pdf)
 
-The Agile Team Charter helped me understand my responsibilities as the Frontend Developer and Designer for the SAEON Real-Time Rainfall Monitoring System. My role focused on UI/UX design, wireframes and frontend development. Understanding the project’s purpose gave my work a clear direction: the dashboard needed to help researchers access and understand rainfall and temperature information remotely.
+### 2. User Stories and Tasks
 
-The charter also helped me recognise how my responsibilities connected with those of the other team members. My interface depended on the measurements and information supplied through the hardware and backend. This made clear communication about data, units and system behaviour important. The working agreements also highlighted the need to communicate delays, take responsibility for assigned tasks and support teammates.
+[Download the User Stories and Tasks](User%20Stories%20and%20Tasks.docx)
 
-Reflecting on the charter, I learned that a clear role gives each person responsibility while still allowing collaboration. I also gained a better understanding of the importance of reviewing and testing work before considering it complete. In future projects, I would agree on the frontend’s data requirements earlier and record changes to responsibilities more clearly as the project develops.
+### 3. Product Backlog
 
----
+[Download the Product Backlog](Product%20Backlog.docx)
 
-## 2. User Stories and Tasks
+### 4. Sprint Backlog
 
-**Evidence:** [View the User Stories and Tasks](User%20Stories%20and%20Tasks.docx)
+[Download the Sprint Backlog](Sprint%20Backlog.docx)
 
-### Reflection
+### 5. Agile Logbook
 
-The user stories helped me connect my frontend work to the needs of SAEON researchers. My work related especially to viewing current conditions, reviewing historical readings, checking station health and using the dashboard on different devices. These stories helped me understand why each feature was needed and what information users should be able to access.
+[Download my Agile Logbook](Agile%20Logbook.docx)
 
-Breaking the features into smaller tasks made the dashboard work easier to approach. My responsibilities included the application structure and routing, live visualisation, historical data and filtering, the station-health interface, and mobile and tablet layouts. The acceptance criteria also made the expected behaviour clearer. For example, displaying a reading involved considering its units, update time and whether the information was missing or outdated.
+### Trello Board
 
-This helped me understand that frontend development requires careful thought about how users interpret information. A dashboard can look complete while still leaving users unsure about what a value means. In future, I would connect each frontend task directly to its user-story ID and use a short checklist to review normal, empty and error states. This would make it easier to demonstrate how my work meets the requirements.
+The screenshot below shows the Trello board for our
+SAEON Real-Time Rainfall Monitoring System.
 
----
-
-## 3. Product Backlog
-
-**Evidence:** [View the Product Backlog](Product%20Backlog.docx)
-
-### Reflection
-
-The product backlog helped me understand where my frontend responsibilities fitted into the whole SAEON project. It showed the work involved in planning, sensor integration, communication, dashboard development, power, deployment and documentation. Seeing these activities together helped me recognise that my dashboard depended on other parts of the system supplying usable information.
-
-The work connected to my role progressed from the dashboard’s basic structure, live readings and historical filters to station-health information and layouts for smaller screens. This sequence helped me understand the importance of establishing the main application before extending its features. It also showed why frontend progress needed to be considered alongside backend and hardware progress.
-
-One important lesson was that completing the dashboard did not mean the entire project was finished. Final deployment, baseline field calibration and the 48-hour field test remained in progress. Reviewing these statuses helped me understand the importance of reporting progress accurately. In future, I would make the backlog easier to follow by including clearer priorities, links to user stories and evidence for completed items. This would help me judge what to work on next and explain how my contribution supports the project.
-
----
-
-## 4. Sprint Backlog
-
-**Evidence:** [View the Sprint Backlog](Sprint%20Backlog.docx)
-
-### Reflection
-
-The sprint backlog helped me understand my frontend work as a series of manageable tasks. During Sprint 5, my assigned responsibilities were the application structure and routing, real-time visualisation, and historical data and filtering. During Sprint 7, I was responsible for the station-health diagnostics interface and mobile and tablet responsiveness. These tasks are recorded as completed in the backlog.
-
-The sprint goals and acceptance criteria gave these tasks a clearer purpose. The dashboard needed to display current readings with their units and update times, while historical views needed to work with stored records. The later interface work also needed to make station status understandable and keep the dashboard usable on smaller screens. This showed me why completing an interface involves checking both its information and its usability.
-
-Reflecting on the sprint backlog, I learned that smaller tasks make responsibilities and progress easier to explain. However, the document also shows areas where recording could improve, including missing estimates and review notes. In future, I would record the time spent, attach evidence to completed tasks and capture feedback after each sprint. This would give me a stronger basis for planning later work and showing what I achieved.
-
----
-
-## 5. Agile Logbook
-
-**Evidence:** [View my Agile Logbook](Agile%20Logbook.docx)
-
-### Reflection
-
-My Agile Logbook brings together my frontend activities across the SAEON project. The entries cover dashboard requirements, sensor labels and units, data-flow preparation, connection-status displays, live visualisation, historical filtering, station-health information and mobile layouts. They also describe support work involving the CSV export interface, project images, frontend documentation, screenshots and demonstration preparation.
-
-Reviewing these entries helped me see how my role extended beyond building individual screens. The dashboard needed to communicate information clearly, and its documentation and presentation needed to explain what the prototype could demonstrate. The entries concerning deployment and field testing also highlight the need to distinguish interface preparation from completed field validation, which remained outstanding.
-
-Reflecting on the logbook showed me that a useful progress record needs specific outcomes. General descriptions such as “worked on” a feature are less informative than explaining what changed, what was checked and what remained unfinished. Because this logbook was reconstructed, checking its entries against available project records is an important part of completing it. In future, I would write updates at the end of each work session and link them to commits, screenshots or task cards. This would make my contribution easier to track and my reflections more accurate.
-
-
-
+![SAEON project Trello board](Trello.jpeg)
